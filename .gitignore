@@ -28,8 +28,5 @@ node_modules/
 # Compass
 .sass-cache
 
-# Build
-lib/
-
 # Test tmp
 test/tmp/
